@@ -1,1 +1,1 @@
-# news- shows daily news updated automatically
+This websitie shows daily news updated automatically
